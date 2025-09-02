@@ -26,4 +26,4 @@ jobs:
 
       - name: Executar testes com pytest
         run: |
-          pytest Tarefa-Avaliativa-5/test_voucher.py
+          pytest TS/Tarefa-Avaliativa-5/test_voucher.py
